@@ -99,7 +99,7 @@ Project-1-Retail-Sales/
 
 ## 👤 Author
 
-**Aman Yadav**  
+**Suryansh Diswar**  
 Data Analytics Learner | SQL | PostgreSQL  
 📍 Agra, India
 
