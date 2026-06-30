@@ -72,4 +72,4 @@ All top 3 customers bought Laptops. Send targeted offers for Laptop accessories 
 
 ---
 
-*Analysis by: Aman Yadav | Tool: PostgreSQL 18 + pgAdmin*
+*Analysis by: Suryansh Diswar | Tool: PostgreSQL 18 + pgAdmin*
