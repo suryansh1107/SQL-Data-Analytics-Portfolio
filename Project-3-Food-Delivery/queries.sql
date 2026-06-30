@@ -1,6 +1,6 @@
 -- ============================================================
 -- PROJECT 3: FOOD DELIVERY BUSINESS ANALYSIS
--- Author: Aman Yadav
+-- Author:Suryansh Diswar
 -- Tool: PostgreSQL 18 + pgAdmin
 -- Description: Order funnel, delivery time, and peak hour
 --              analysis for a food delivery platform
