@@ -1,6 +1,6 @@
 -- ============================================================
 -- PROJECT 1: RETAIL SALES ANALYSIS
--- Author: Aman Yadav
+-- Author: Suryansh Diswar
 -- Tool: PostgreSQL 18 + pgAdmin
 -- Date: 2024
 -- Description: Analysis of retail store sales data to find
