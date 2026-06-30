@@ -83,7 +83,7 @@ Project-3-Food-Delivery/
 
 ## 👤 Author
 
-**Aman Yadav** | Data Analytics Learner | SQL | PostgreSQL
+**Suryansh Diswar** | Data Analytics Learner | SQL | PostgreSQL
 
 ---
 *Part of my SQL Data Analytics Portfolio*
