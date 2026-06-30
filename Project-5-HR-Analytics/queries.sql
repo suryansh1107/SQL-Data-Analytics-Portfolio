@@ -1,6 +1,6 @@
 -- ============================================================
 -- PROJECT 5: HR ANALYTICS DASHBOARD
--- Author: Aman Yadav
+-- Author: Syryansh Diswar
 -- Tool: PostgreSQL 18 + pgAdmin
 -- Description: Employee attrition, salary, and tenure analysis
 --              for workforce planning decisions
