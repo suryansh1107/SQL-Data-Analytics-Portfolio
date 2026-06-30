@@ -1,6 +1,6 @@
 -- ============================================================
 -- PROJECT 4: NETFLIX DATA ANALYSIS
--- Author: Aman Yadav
+-- Author: Suryansh Diswar
 -- Tool: PostgreSQL 18 + pgAdmin
 -- Description: Content catalog analysis - genre trends, country
 --              distribution, and release year patterns
