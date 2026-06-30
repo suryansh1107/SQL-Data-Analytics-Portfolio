@@ -1,6 +1,6 @@
 -- ============================================================
 -- PROJECT 2: E-COMMERCE CUSTOMER ANALYTICS
--- Author: Aman Yadav
+-- Author: Suryansh Diswar
 -- Tool: PostgreSQL 18 + pgAdmin
 -- Description: Customer Lifetime Value, Churn Detection, and
 --              RFM Segmentation for an e-commerce business
